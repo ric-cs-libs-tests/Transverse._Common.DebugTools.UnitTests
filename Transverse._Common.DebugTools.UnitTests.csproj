@@ -1,5 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Src\Transverse._Common.DebugTools\Transverse._Common.DebugTools.csproj" />
+    <ProjectReference Include="..\..\..\..\Src\Transverse._Common\DebugTools\Transverse._Common.DebugTools.csproj" />
   </ItemGroup>
 </Project>
